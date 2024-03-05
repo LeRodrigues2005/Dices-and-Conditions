@@ -1,0 +1,15 @@
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\bin\Debug\net8.0\info.exe
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\bin\Debug\net8.0\info.deps.json
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\bin\Debug\net8.0\info.runtimeconfig.json
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\bin\Debug\net8.0\info.dll
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\bin\Debug\net8.0\info.pdb
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\obj\Debug\net8.0\info.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\obj\Debug\net8.0\info.AssemblyInfoInputs.cache
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\obj\Debug\net8.0\info.AssemblyInfo.cs
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\obj\Debug\net8.0\info.csproj.CoreCompileInputs.cache
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\obj\Debug\net8.0\info.sourcelink.json
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\obj\Debug\net8.0\info.dll
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\obj\Debug\net8.0\refint\info.dll
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\obj\Debug\net8.0\info.pdb
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\obj\Debug\net8.0\info.genruntimeconfig.cache
+C:\INFORMATIC\C#\tests2\Dices_and_conditions\obj\Debug\net8.0\ref\info.dll

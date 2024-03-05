@@ -1,0 +1,15 @@
+C:\INFORMATIC\C#\tests2\T\obj\Debug\net8.0\T.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFORMATIC\C#\tests2\T\obj\Debug\net8.0\T.AssemblyInfoInputs.cache
+C:\INFORMATIC\C#\tests2\T\obj\Debug\net8.0\T.AssemblyInfo.cs
+C:\INFORMATIC\C#\tests2\T\obj\Debug\net8.0\T.csproj.CoreCompileInputs.cache
+C:\INFORMATIC\C#\tests2\T\obj\Debug\net8.0\T.sourcelink.json
+C:\INFORMATIC\C#\tests2\T\bin\Debug\net8.0\T.exe
+C:\INFORMATIC\C#\tests2\T\bin\Debug\net8.0\T.deps.json
+C:\INFORMATIC\C#\tests2\T\bin\Debug\net8.0\T.runtimeconfig.json
+C:\INFORMATIC\C#\tests2\T\bin\Debug\net8.0\T.dll
+C:\INFORMATIC\C#\tests2\T\bin\Debug\net8.0\T.pdb
+C:\INFORMATIC\C#\tests2\T\obj\Debug\net8.0\T.dll
+C:\INFORMATIC\C#\tests2\T\obj\Debug\net8.0\refint\T.dll
+C:\INFORMATIC\C#\tests2\T\obj\Debug\net8.0\T.pdb
+C:\INFORMATIC\C#\tests2\T\obj\Debug\net8.0\T.genruntimeconfig.cache
+C:\INFORMATIC\C#\tests2\T\obj\Debug\net8.0\ref\T.dll
